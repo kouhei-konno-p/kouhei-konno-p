@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm server-side web developer using PHP and Javascript. 🐘
+I enjoy camping 🏕️, skateboard 🛹. 
+
+
 
 <!--
 **kouhei-konno-p/kouhei-konno-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
