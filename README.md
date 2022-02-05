@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm server-side web developer using PHP and Javascript. 🐘
 I enjoy camping 🏕️, skateboard 🛹. 
 
-
+<img src="https://img.shields.io/badge/laravel-developer-%23777BB4?style=php&logo=php"/>
 
 <!--
 **kouhei-konno-p/kouhei-konno-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
