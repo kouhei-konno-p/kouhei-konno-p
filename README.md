@@ -1,4 +1,4 @@
-### Hi there 👋 I'm server-side web developer using PHP and Javascript. 🐘
+### Hi there 👋 I work as backend engineer using PHP and Javascript. 🐘
 I enjoy camping 🏕️, skateboard 🛹. 
 
 <img src="https://img.shields.io/badge/laravel-developer-%23777BB4?style=php&logo=php"/>
